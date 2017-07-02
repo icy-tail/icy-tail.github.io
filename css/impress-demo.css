@@ -379,12 +379,13 @@ This step has some animated text ...
     overflow: hidden;
     text-overflow: ellipsis;
 }
-#prefix h3 {
+
+#moon h3 {
     font-size: 1.4em;
     line-height: 2em;
 }
 
-#prefix .demo {
+#moon .demo {
     line-height: 20px;
     margin: 20px 0;
     padding: 20px;
